@@ -1,0 +1,24 @@
+# Xcode
+*.xcuserstate
+*.xcworkspace
+xcuserdata/
+DerivedData/
+build/
+
+# API Keys and sensitive configuration
+Config.plist
+
+# macOS
+.DS_Store
+
+# iOS
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Dependencies
+Carthage/Build/
+Pods/
+
+# Environment variables
+.env
