@@ -2,6 +2,10 @@
 
 A comprehensive health tracking application built with SwiftUI that provides nutrition information, recipes, exercises, cocktail recipes, and calorie burn calculations.
 
+## App Walkthrough
+
+![Health Tracker App Demo](walkthrough.gif)
+
 ## Features
 
 - 🥗 **Nutrition Tracker**: Search for food items and view detailed nutritional information
